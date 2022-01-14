@@ -1,1 +1,1 @@
-# Project2-Group-4
+# Earthquake Tracker
